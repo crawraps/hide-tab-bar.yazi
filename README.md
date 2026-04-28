@@ -1,6 +1,6 @@
 <div align="center"><h1>hide-tab-bar.yazi</h1></div>
 
-Yazi plugin that hides the tab bar and shows tabs in the header instead.
+<div align="center">Yazi plugin that moves the tabs to the header.</div>
 
 <!-- ![showcase](https://github.com/crawraps/hide-tab-bar.yazi/assets/VIDEO_OR_IMAGE_ID) -->
 
