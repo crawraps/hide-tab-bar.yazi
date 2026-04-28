@@ -1,6 +1,6 @@
 <div align="center"><h1>hide-tab-bar.yazi</h1></div>
 
-Yazi plugin that hides the tab bar and shows tab indicators on the right side of the header (cwd) bar instead. This saves a full row of vertical space while still showing which tabs are open. Tabs only appear when there are 2 or more tabs.
+Yazi plugin that hides the tab bar and shows tabs in the header instead.
 
 <!-- ![showcase](https://github.com/crawraps/hide-tab-bar.yazi/assets/VIDEO_OR_IMAGE_ID) -->
 
